@@ -2,7 +2,7 @@
 
 ## Сервис для оптимального планирования пешего маршрута по достопримечательностям
 
-### Участники команды 3 группы 3:     
+### Участники :     
 - https://github.com/shelf08 / PM & Team-lead  
 - https://github.com/qudest / DevOps engineer  
 - https://github.com/ulianacode / Designer & Front-end developer 
